@@ -1,0 +1,1 @@
+Do NOT move the files out of the VERITY folder, or modify anything by renaming it etc. Just open the .vbs file, it is safe to delete this .txt file if you want to.
